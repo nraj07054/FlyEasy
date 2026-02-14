@@ -1,9 +1,10 @@
+import "dotenv/config";
 import type {Application, Request, Response} from "express";
 import express from "express";
 import session from "express-session";
 import cors from "cors";
-
 import {search} from './controllers/search.controller.ts';
+
 import {evaluateOffersController} from "./controllers/offer.controller.ts";
 
 const app: Application = express();
