@@ -1,0 +1,137 @@
+{
+  "version": "1.0",
+  "country": "IN",
+  "lastUpdated": "2026-01-04",
+  "cards": [
+    {
+      "id": "HDFC_DINERS_BLACK",
+      "bank": "HDFC",
+      "cardName": "Diners Black",
+      "fullName": "HDFC Diners Black Credit Card",
+      "network": "DINERS",
+      "type": "CREDIT",
+      "tier": "SUPER_PREMIUM",
+      "aliases": [
+        "diners black",
+        "hdfc diners black",
+        "hdfc dinners black",
+        "diners black credit card",
+        "hdfc black diners"
+      ],
+      "active": true
+    },
+    {
+      "id": "HDFC_REGALIA",
+      "bank": "HDFC",
+      "cardName": "Regalia",
+      "fullName": "HDFC Regalia Credit Card",
+      "network": "VISA",
+      "type": "CREDIT",
+      "tier": "PREMIUM",
+      "aliases": [
+        "regalia",
+        "hdfc regalia",
+        "hdfc regalia credit card",
+        "regalia card"
+      ],
+      "active": true
+    },
+    {
+      "id": "HDFC_MILLENNIA",
+      "bank": "HDFC",
+      "cardName": "Millennia",
+      "fullName": "HDFC Millennia Credit Card",
+      "network": "VISA",
+      "type": "CREDIT",
+      "tier": "BASIC",
+      "aliases": [
+        "hdfc millennia",
+        "millennia card",
+        "hdfc millenia",
+        "millennia credit card"
+      ],
+      "active": true
+    },
+    {
+      "id": "ICICI_CORAL_RUPAY",
+      "bank": "ICICI",
+      "cardName": "Coral",
+      "fullName": "ICICI Coral RuPay Credit Card",
+      "network": "RUPAY",
+      "type": "CREDIT",
+      "tier": "BASIC",
+      "aliases": [
+        "icici coral",
+        "icici coral rupay",
+        "coral rupay card",
+        "icici coral credit card",
+        "coral card"
+      ],
+      "active": true
+    },
+    {
+      "id": "ICICI_SAPPHIRO",
+      "bank": "ICICI",
+      "cardName": "Sapphiro",
+      "fullName": "ICICI Sapphiro Credit Card",
+      "network": "VISA",
+      "type": "CREDIT",
+      "tier": "SUPER_PREMIUM",
+      "aliases": [
+        "icici sapphiro",
+        "sapphiro card",
+        "icici sapphiro credit card",
+        "sapphiro"
+      ],
+      "active": true
+    },
+    {
+      "id": "AXIS_FLIPKART",
+      "bank": "AXIS",
+      "cardName": "Flipkart Axis",
+      "fullName": "Flipkart Axis Bank Credit Card",
+      "network": "VISA",
+      "type": "CREDIT",
+      "tier": "BASIC",
+      "aliases": [
+        "axis flipkart",
+        "flipkart axis",
+        "flipkart axis card",
+        "axis flipkart credit card"
+      ],
+      "active": true
+    },
+    {
+      "id": "AXIS_MAGNUS",
+      "bank": "AXIS",
+      "cardName": "Magnus",
+      "fullName": "Axis Bank Magnus Credit Card",
+      "network": "VISA",
+      "type": "CREDIT",
+      "tier": "SUPER_PREMIUM",
+      "aliases": [
+        "axis magnus",
+        "magnus card",
+        "axis magnus credit card",
+        "magnus"
+      ],
+      "active": true
+    },
+    {
+      "id": "SBI_SIMPLYCLICK",
+      "bank": "SBI",
+      "cardName": "SimplyCLICK",
+      "fullName": "SBI SimplyCLICK Credit Card",
+      "network": "VISA",
+      "type": "CREDIT",
+      "tier": "BASIC",
+      "aliases": [
+        "sbi simplyclick",
+        "simply click",
+        "sbi simply click card",
+        "simplyclick credit card"
+      ],
+      "active": true
+    }
+  ]
+}

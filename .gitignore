@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Next.js & Build outputs
+.next/
+**/.next/
+out/
+**/out/
+dist/
+**/dist/
+build/
+**/build/
+
+# Environment files
+.env*
+**/.env*
+
+# IDEs and OS
+.vscode/
+.idea/
+.DS_Store
+*.log
+
+# Testing & Temp
+coverage/
+**/coverage/
+*.tsbuildinfo
+tmp/
+temp/
