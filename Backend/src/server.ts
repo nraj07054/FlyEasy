@@ -28,7 +28,7 @@ app.use(
         resave: false,
         saveUninitialized: true, // true is better for dev, false for prod
         cookie: {
-            secure: false, // Set to true if you deploy to HTTPS
+            secure: true, // Set to true if you deploy to HTTPS
             httpOnly: true,
             maxAge: 1000 * 60 * 60 * 24 // 1 Day
         }
